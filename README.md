@@ -1,5 +1,7 @@
 # Email2DB
 
+[![Join the chat at https://gitter.im/moiseevigor/email2db-php](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/moiseevigor/email2db-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **ATTENTION! Work in progress, no working release yet!**
 
 Email2DB parses the email schema into the relational schema.
